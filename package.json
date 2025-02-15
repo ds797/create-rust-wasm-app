@@ -1,6 +1,6 @@
 {
   "name": "create-rust-wasm-app",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "create an app to consume rust-generated wasm packages (copied from create-wasm-app)",
   "main": "index.js",
   "bin": {
